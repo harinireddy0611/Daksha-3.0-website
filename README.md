@@ -26,7 +26,7 @@ You can visit the official Daksha 3.0 website here: [Daksha 3.0 Official Website
 
 ## Repository
 
-You can access the project's repository [here](https://github.com/yourusername/daksha-3.0).
+You can access the project's repository [here](https://github.com/harinireddy0611/Daksha-3.0-website).
 
 ## Installation Guide
 
